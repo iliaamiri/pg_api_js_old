@@ -1,0 +1,4 @@
+node_modules
+.env
+poker_dependencies
+resources/jwt
